@@ -286,7 +286,7 @@ section {
 .card {
   background:
     linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),
-    url("/galaxy.png");
+    url("galaxy.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -350,7 +350,7 @@ section {
 .skills-bg {
   background:
     linear-gradient(rgba(10,15,25,.75), rgba(10,15,25,.75)),
-    url("/skills.png");
+    url("skills.png");
 
   background-size: cover;
   background-position: center;
@@ -360,7 +360,7 @@ section {
 .hobbies-bg {
   background:
     linear-gradient(rgba(10,15,25,.75), rgba(10,15,25,.75)),
-    url("/passion.png");
+    url("passion.png");
 
   background-size: cover;
   background-position: center;
